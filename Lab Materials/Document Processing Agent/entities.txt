@@ -1,0 +1,7 @@
+**Customer name**:
+**Customer number**:
+**Customer address**:
+**Amount due**:
+**Due date**:
+**Monthly usage**:
+**Year to year usage**:
